@@ -12,7 +12,7 @@
 |-----|----------|
 | Họ và tên | Nguyễn Thu Hằng |
 | Mã học viên | 2A202602463 |
-| Repo | (điền link repo K4-L3A-DAY12-HoVaTen-MSSV-CloudServicesAndDeployment) |
+| Repo | https://github.com/beann624/K4-L3A-DAY12-NguyenThuHang-2A202602463-CloudServicesAndDeployment |
 
 ## Service
 
